@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T21:39:16.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XS_PRoQX-Zeql_Rxl6TU" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-11T21:42:07.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ox9F_8m-uny7I07w9zGO" version="21.1.5" type="github" pages="2">
   <diagram name="Option_1: Inside_Optum" id="yTjBNJUCtUH3Ub_U6fUW">
-    <mxGraphModel dx="1482" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2582" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="_YCeMTjPJ7ek2-jhqzVR-0" />
         <mxCell id="_YCeMTjPJ7ek2-jhqzVR-1" parent="_YCeMTjPJ7ek2-jhqzVR-0" />
@@ -182,11 +182,11 @@
             <mxPoint x="450" y="682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KMj5E4Lz8tHzeBc2N0Ma-0" value="&lt;b&gt;Rally Health&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_YCeMTjPJ7ek2-jhqzVR-1" vertex="1">
-          <mxGeometry width="80" height="30" as="geometry" />
+        <mxCell id="KMj5E4Lz8tHzeBc2N0Ma-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Rally Health&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_YCeMTjPJ7ek2-jhqzVR-1" vertex="1">
+          <mxGeometry x="-40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KMj5E4Lz8tHzeBc2N0Ma-1" value="&lt;b&gt;RVO Health&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_YCeMTjPJ7ek2-jhqzVR-1" vertex="1">
-          <mxGeometry y="1170" width="80" height="30" as="geometry" />
+        <mxCell id="KMj5E4Lz8tHzeBc2N0Ma-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RVO Health&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_YCeMTjPJ7ek2-jhqzVR-1" vertex="1">
+          <mxGeometry x="-40" y="1170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mIMNrYr5Ivsi4Akktfgo-0" value="5432" style="fontStyle=2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=Verdana;" parent="_YCeMTjPJ7ek2-jhqzVR-1" vertex="1">
           <mxGeometry x="110" y="211" width="20" height="20" as="geometry" />
@@ -470,11 +470,11 @@
         <mxCell id="CEZRXzg0aLq2lPMZZVaz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CEZRXzg0aLq2lPMZZVaz-12" target="CEZRXzg0aLq2lPMZZVaz-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gawh2KOxIU3Ali2_JG4v-1" value="&lt;b&gt;Rally Health&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry width="80" height="30" as="geometry" />
+        <mxCell id="Gawh2KOxIU3Ali2_JG4v-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Rally Health&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j09uvQV2uEdGzQ5cLKNU-1" value="&lt;b&gt;RVO Health&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="1090" width="80" height="30" as="geometry" />
+        <mxCell id="j09uvQV2uEdGzQ5cLKNU-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RVO Health&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1090" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rIcIW_MhtgpGFl4HYt5P-21" value="Snowflake DW cloud&lt;br&gt;(Optum)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/christmas-2434/128/Artboard_3-128.png" parent="1" vertex="1">
           <mxGeometry x="920" y="320" width="80" height="80" as="geometry" />
